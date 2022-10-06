@@ -1,4 +1,4 @@
-# SulcalWidthEstimation
+# Estimation of vertex-wise sulcal width maps
 Method for the estimation of vertex-wise sulcal width of the brain. 
 
 To execute the method, first you need to compile the travelDepth mex. For this, in Linux console navigate to the mex file and execute:
