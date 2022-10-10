@@ -19,3 +19,8 @@ Then in MATLAB you can execute the sulcal width estimation algorithm by calling 
 'DepthThreshold' -> Distance at which the first isoline will be placed
 'MaxWidth' -> Maximum width distance allowed to avoid spurious connections
 ```
+## External Dependencies
+
+The repository needs some external dependencies in the MATLAB path to work properly. First of all, you need to clone https://github.com/yasseraleman/Surface_Tools
+
+Then, you need to clone and compile the mex files in https://github.com/alecjacobson/gptoolbox
