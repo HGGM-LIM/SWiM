@@ -24,3 +24,11 @@ Then in MATLAB you can execute the sulcal width estimation algorithm by calling 
 The repository needs some external dependencies in the MATLAB path to work properly. First of all, you need to clone https://github.com/yasseraleman/Surface_Tools
 
 Then, you need to clone and compile the mex files in https://github.com/alecjacobson/gptoolbox
+
+## TODO
+
+- Add external dependencies as git submodules
+- Properly document and comment the code
+- Some refactors in the code (split functions, etc.) might be needed
+- Create a Docker image to easily run the method
+- (FUTURE) Migrate the code from MATLAB to C++/Python
